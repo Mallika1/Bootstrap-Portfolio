@@ -4,6 +4,7 @@ html {
   }
   body {
     margin-bottom: 60px; /* Margin bottom by footer height */
+    background-image: url("../images/gravel.png");
   }
 
 .footer {
@@ -11,11 +12,12 @@ html {
     bottom: 0;
     width: 100%;
     border-top:8px solid #4aaaa5;
-    height: 60px; /* Set the fixed height of the footer here */
+    height: 50px; /* Set the fixed height of the footer here */
      /* Vertically center the text there */
     background-color:#666;
     color:#ccc;
     font-size:12px;
     text-align:center;
+    padding:10px;
    
   }
